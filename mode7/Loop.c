@@ -850,7 +850,7 @@ void main() NONBANKED
 	if (counter == 0)
 	{
 	play_isr();
-	counter = 16;
+	counter = 8;
 	}
 	counter --;
 	if (play_length > 0)
