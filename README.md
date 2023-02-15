@@ -7,5 +7,6 @@ Featuring:
 -a scaling background
 -rudimentary but mostly functional hit detection
 -sample sound effects, the code for that is from gbdk 4.1.1
+-music composed by me
 
 It's on on-rails shooter similar to axelay. Or the lava levels in iridion 3D would make a closer comparison. Shoot down the baddies. There's no up and down movement so you're just stuck with moving left and right.
